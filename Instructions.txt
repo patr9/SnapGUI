@@ -1,0 +1,10 @@
+HOW TO RUN THE PROGRAM:
+
+1. Extract the files
+2. In Java Eclipse, go to file -> import
+3. Select General -> Existing project into workspace
+4. Browse and select the folder named "SnapGUI" to import under root directory
+5. Press finish
+6. In Cards.java, go to line 72 and edit the file path for the cards folder.
+7. In Snap.java, do the same at lines 57 and 58.
+8. Everything is complete. Simply run the program and it should work.
